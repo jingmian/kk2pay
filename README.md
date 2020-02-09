@@ -32,7 +32,7 @@
 
 `第二步：kkpay_server 返回你的二维码 -> 用户扫码支付 -> 钱到你的微信/支付宝 -> kkpay_app 监听到钱支付成功 ->`
 
-`第三步：kkpay_app 告诉kkpay_server 这个支付成功的消息 -> kkpay_server 把这个消息回调给你的网站(notify_url)`
+`第三步：kkpay_app 告诉kkpay_server 这个支付成功的消息 -> kkpay_server 把这个消息回调给你的网站(notify_url)` 
 ### 三、搭建流程
 
 #### 2.1 获取源码 ----> [kkpay](https://kkpay.goodqp.com/)
